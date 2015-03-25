@@ -55,7 +55,7 @@ h1 {
   }
 }
 
-@media all and (max-width: 480px) { 
+@media all and (min-width: 480px) { 
 	h1 { font-size: 28px; line-height: .5em; }
 }
 
