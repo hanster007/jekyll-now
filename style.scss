@@ -46,22 +46,22 @@ font-weight: 500;
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 70px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 54px;
+  font-size: 64px;
 }
 
 h3 {
-  font-size: 50px;
+  font-size: 60px;
 }
 
 h4 {
-  font-size: 48px;
+  font-size: 58px;
   color: $gray;
 }
 
@@ -198,7 +198,7 @@ img {
  font-family: "fira-sans-2",sans-serif;
 font-style: normal;
 font-weight: 600;
-  font-size: 80px;
+  font-size: 70px;
   text-transform: uppercase;
 }
 
@@ -246,7 +246,7 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
-  font-size:20px;
+  font-size:30px;
 }
 
 .posts > .post:last-child {
