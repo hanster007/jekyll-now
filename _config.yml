@@ -20,9 +20,9 @@ footer-links:
   dribbble:
   email: doug@crosscurrent.tv
   facebook: http://www.facebook.com/hanster007
-  flickr:
+  flickr: hanster1234
   github: hanster007/jekyll-now
-  instagram:
+  instagram: hanster007
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://www.churchantagonist.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
