@@ -24,4 +24,7 @@ $georgia: Georgia, serif;
   @media screen and (max-width: 640px) {
     @content;
   }
+  .h1 { font-size: 4rem; line-height: 5rem; }
+  
+  
 }
